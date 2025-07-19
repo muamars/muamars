@@ -27,6 +27,18 @@ I've had the chance to **lead teams** and also dive deep as a **hands-on develop
 - Exploring mobile development (already got the basics!)  
 - Always open for **freelance**, **remote roles**, **mentorship**, or **collaborations**
 
+<!-- GitHub Stats -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=muamars&show_icons=true&theme=github_dark&hide_title=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muamars&layout=compact&theme=github_dark&hide_title=true" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 📫 **Let’s Connect!**  
