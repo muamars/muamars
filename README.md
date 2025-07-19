@@ -1,4 +1,5 @@
 # Hi there, I'm Muammar👋
+![Profile views](https://komarev.com/ghpvc/?username=vincentdev&color=gray&style=flat)
 
 I'm a **collaborative Frontend Developer** with strong foundations in **UI/UX**, and currently on the journey toward becoming a **Full-Stack Engineer** 🚀
 
