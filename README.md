@@ -1,5 +1,5 @@
 # Hi there, I'm Muammar👋
-![Profile views](https://komarev.com/ghpvc/?username=vincentdev&color=gray&style=flat) | [![wakatime](https://wakatime.com/badge/user/f0cd5a46-a8d6-4a46-9466-039a3277d334.svg)](https://wakatime.com/@f0cd5a46-a8d6-4a46-9466-039a3277d334)
+![Profile views](https://komarev.com/ghpvc/?username=vincentdev&color=gray&style=flat)  [![wakatime](https://wakatime.com/badge/user/f0cd5a46-a8d6-4a46-9466-039a3277d334.svg)](https://wakatime.com/@f0cd5a46-a8d6-4a46-9466-039a3277d334)
 
 I'm a **collaborative Frontend Developer** with strong foundations in **UI/UX**, and currently on the journey toward becoming a **Full-Stack Engineer** 🚀
 
