@@ -36,6 +36,9 @@ I've had the chance to **lead teams** and also dive deep as a **hands-on develop
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muamars&layout=compact&theme=github_dark&hide_title=true" />
     </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muamars&layout=compact&theme=github_dark" />
+    </td>
   </tr>
 </table>
 
