@@ -1,5 +1,5 @@
 # Hi there, I'm Muammar👋
-![Profile views](https://komarev.com/ghpvc/?username=vincentdev&color=gray&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=vincentdev&color=gray&style=flat) | [![wakatime](https://wakatime.com/badge/user/f0cd5a46-a8d6-4a46-9466-039a3277d334.svg)](https://wakatime.com/@f0cd5a46-a8d6-4a46-9466-039a3277d334)
 
 I'm a **collaborative Frontend Developer** with strong foundations in **UI/UX**, and currently on the journey toward becoming a **Full-Stack Engineer** 🚀
 
@@ -26,21 +26,6 @@ I've had the chance to **lead teams** and also dive deep as a **hands-on develop
 - Enhancing my backend skills to complete the fullstack puzzle  
 - Exploring mobile development (already got the basics!)  
 - Always open for **freelance**, **remote roles**, **mentorship**, or **collaborations**
-
-<!-- GitHub Stats -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=muamars&show_icons=true&theme=github_dark&hide_title=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muamars&layout=compact&theme=github_dark&hide_title=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muamars&layout=compact&theme=github_dark" />
-    </td>
-  </tr>
-</table>
 
 ---
 
